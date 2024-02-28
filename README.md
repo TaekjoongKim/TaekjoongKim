@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ktj9806@gmail.com**
 
-- ⚡ Fun fact **I think I am funny🤣**
+- ⚡ Fun fact **저는 관심받는 것을 좋아합니다🙄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
