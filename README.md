@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taekjoong Kim</h1>
-<h3 align="center">A passionate 기획자😊 from South Korea</h3>
+<h1 align="left">Hi 👋, I'm Taekjoong Kim</h1>
+<h3 align="left">A passionate 기획자😊 from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taekjoongkim&label=Profile%20views&color=0e75b6&style=flat" alt="taekjoongkim" /> </p>
 
